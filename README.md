@@ -38,17 +38,15 @@ Google Colab | Jupyter Notebook | AWS | Azure | Tableau | Atom | VS Code | Micro
 PyTorch | Tensorflow | Keras | Spark | Flask | Hadoop | JSON | Angular 8/9 | Ionic 2/3 | .NET
 
 <br />
-<br />
 
 ---
 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Sohan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sohansputhran&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sohan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sohansputhran&show_icons=truee&count_private=true&hide=stars,issues&hide_border=true&show_icons=true" />
 
 </details>
-
 
 [website]: https://puthran.sohan.tech
 [twitter]: https://twitter.com/puthran_sohan
