@@ -47,4 +47,4 @@ PyTorch | Tensorflow | Keras | Spark | Flask | Hadoop | JSON | Angular 8/9 | Ion
 [twitter]: https://twitter.com/puthran_sohan
 [linkedin]: https://www.linkedin.com/in/sohansputhran
 [kaggle]: https://www.kaggle.com/sohansp
-[gmail]: sputhran@hawk.iit.edu
+[gmail]: mailto:sputhran@hawk.iit.edu
