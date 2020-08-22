@@ -37,7 +37,6 @@ Google Colab | Jupyter Notebook | AWS | Azure | Tableau | Atom | VS Code | Micro
 ### Framework
 PyTorch | Tensorflow | Keras | Spark | Flask | Hadoop | JSON | Angular 8/9 | Ionic 2/3 | .NET
 
-<br />
 
 ---
 
