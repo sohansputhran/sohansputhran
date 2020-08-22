@@ -1,16 +1,48 @@
-### Hi there 👋
+### Hi there, I'm Sohan.
 
-<!--
-**sohansputhran/sohansputhran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A Student, Developer and Data Scientist!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building my portfolio website and Chatbot.
+- 🌱 I’m currently pursuing my Masters in Data Science at Illinois Institute of Technology, Chicago.
+- 👯 I’m looking to work on some interesting projects and improve my skills.
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to code. 🤣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][twitter]
+[<img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+
+<br />
+
+### Data Science / AI:
+
+Computer Vision | Natural Language Processing | Deep Learning | Transfer Learning | Ensemble Learning | Data Visualization |
+Web Scraping | Data Preparation | Big Data | Neural Network | Pipelining
+
+### Machine Learning
+Recommendation System | Clustering | Regression | Classification | Reinforcement Learning | Image Processing | LSTM
+
+### Languages
+Python | R | SQL | Typescript | JavaScript | JAVA | C++ | C
+
+### Web / Databases
+HTML | HTML5 | CSS3 | MySQL | SQL Server
+
+### Tools
+Google Colab | Jupyter Notebook | AWS | Azure | Tableau | Atom | VS Code | Microsoft Office | Power BI
+
+### Framework
+PyTorch | Tensorflow | Keras | Spark | Flask | Hadoop | JSON | Angular 8/9 | Ionic 2/3 | .NET
+
+<br />
+<br />
+
+
+[website]: https://puthran.sohan.tech
+[twitter]: https://twitter.com/puthran_sohan
+[linkedin]: https://www.linkedin.com/in/sohansputhran
+[kaggle]: https://www.kaggle.com/sohansp
+[gmail]: sputhran@hawk.iit.edu
