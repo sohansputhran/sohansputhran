@@ -41,7 +41,7 @@ PyTorch | Tensorflow | Keras | Spark | Flask | Hadoop | JSON | Angular 8/9 | Ion
 ---
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: <b> Github Stats</b></summary>
 
   <img align="left" alt="Sohan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sohansputhran&show_icons=truee&count_private=true&hide=stars,issues&hide_border=true&show_icons=true" />
 
