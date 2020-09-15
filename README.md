@@ -2,8 +2,8 @@
 
 ## A Student, Developer and Data Scientist!
 
-- 🔭 I’m currently working on building my portfolio website and Chatbot.
-- 🌱 I’m currently pursuing my Masters in Data Science at Illinois Institute of Technology, Chicago.
+- 🔭 I’m currently working on building my portfolio website, COVID-19 dataset and Airbus Ship Detection.
+- 🌱 I’m currently pursuing my Masters in Data Science at Illinois Institute of Technology, Chicago. Will be graduating in May 2021.
 - 👯 I’m looking to work on some interesting projects and improve my skills.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code. 🤣
