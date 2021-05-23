@@ -2,20 +2,24 @@
 
 ## A Student, Developer and Data Scientist!
 
-- 🔭 I’m currently working as a Data Scientist Intern at Airriva.
-- 🌱 I’m currently pursuing my Masters in Data Science at Illinois Institute of Technology, Chicago. Will be graduating in May 2021.
-- 👯 I’m looking to work on some interesting projects and improve my skills.
-- 🥅 2021 Goals: Work on good Data Science projects
-- ⚡ Fun fact: I love to code. 🤣
+- 🔭 Data Scientist Intern at Airriva.
+- 🌱 Graduated with a Masters degree in Data Science from Illinois Institute of Technology,Chicago this Spring.
+- 👯 I’m always in the quest to learn and improve my Data Science skills everyday.
+- :earth_africa: One of the most interesting project I'm currently working on is the UN project ["Preventing the Financing of Terrorism by Engineering an ML Model with Financial Crime Data"](https://omdena.com/projects/ai-terrorism/) through Omdena Challenge.
+- :zap: Always on a lookout for interesting project.
+
+Do connect with me if you want to collaborate.
 
 ### Connect with me:
 
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+- [Gmail](mailto:puthran.sohan@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/sohansputhran)
+- [Twitter](https://twitter.com/puthran_sohan)
+- [Kaggle](https://www.kaggle.com/sohansp)
 
 <br />
+
+[![Sohan's github stats](https://github-readme-stats.vercel.app/api?username=sohansputhran&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Data Science / AI:
 
@@ -37,18 +41,8 @@ Google Colab | Jupyter Notebook | AWS | Azure | Tableau | Atom | VS Code | Micro
 ### Framework
 PyTorch | Tensorflow | Keras | Spark | Flask | Hadoop | JSON | Angular 8/9 | Ionic 2/3 | .NET
 
+</details> 
 
----
+  
 
-<details>
-  <summary>:zap: <b> Github Stats</b></summary>
 
-  <img align="left" alt="Sohan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sohansputhran&show_icons=truee&count_private=true&hide=stars,issues&hide_border=true&show_icons=true" />
-
-</details>
-
-[website]: https://puthran.sohan.tech
-[twitter]: https://twitter.com/puthran_sohan
-[linkedin]: https://www.linkedin.com/in/sohansputhran
-[kaggle]: https://www.kaggle.com/sohansp
-[gmail]: mailto:sputhran@hawk.iit.edu
