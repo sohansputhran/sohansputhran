@@ -1,6 +1,6 @@
 ### Hi there, I'm Sohan.
 
-## A Student, Developer and Data Scientist!
+## A Learner and a Data Scientist!
 
 - 🔭 Data Scientist Intern at Airriva.
 - 🌱 Graduated with a Masters degree in Data Science from Illinois Institute of Technology,Chicago this Spring.
