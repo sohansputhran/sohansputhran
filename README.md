@@ -1,4 +1,5 @@
-### Hi there, I'm Sohan.
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Sohan Puthran and I graduated with a Master's degree in Data Science from Illinois Institute of Technology (Spring 2021). I'm from India, living in USA and currently working as a Data Scientist Intern at Airriva. 
 
 ## A Learner and a Data Scientist!
 
@@ -10,7 +11,7 @@
 
 Do connect with me if you want to collaborate.
 
-### Connect with me:
+### You can find me here:
 
 - [Gmail](mailto:puthran.sohan@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sohansputhran)
