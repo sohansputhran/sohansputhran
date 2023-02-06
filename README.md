@@ -1,9 +1,9 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Sohan Puthran and I graduated with a Master's degree in Data Science from Illinois Institute of Technology (Summer 2021). I'm living in USA and currently working as a Junior Data Scientist on Pricing Engine at Airriva. 
+My name is Sohan Puthran and I graduated with a Master's degree in Data Science from Illinois Institute of Technology (Summer 2021). I'm living in USA and currently working as a Data Scientist at Lundbeck. 
 
 ## A Learner and a Data Scientist!
 
-- 🔭 Junior Data Scientist at Airriva.
+- 🔭 Data Scientist at Lundbeck.
 - 🌱 Working on my personal website: https://sohansputhran.github.io/
 - 👯 I’m always in the quest to learn and improve my Data Science skills everyday.
 - :earth_africa: One of the most interesting project I'm currently working on is the UN project ["Preventing the Financing of Terrorism by Engineering an ML Model with Financial Crime Data"](https://omdena.com/projects/ai-terrorism/) through Omdena Challenge.
