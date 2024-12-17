@@ -70,8 +70,6 @@ I’m open to projects in **Data Science**, **Machine Learning**, and **AI/ML En
 
 ---
 
-[![Sohan's github stats](https://github-readme-stats.vercel.app/api?username=sohansputhran&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
 </details> 
 
   
