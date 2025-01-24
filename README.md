@@ -57,8 +57,8 @@ I’m a Data Scientist passionate about building end-to-end machine learning pip
 ---
 
 ## 🎓 **Education**
-- **Master of Data Science**, Illinois Institute of Technology, Chicago
-- **B.E. in Computer Science**, Visvesvaraya Technological University, India
+- **Master of Data Science** (2019-21), Illinois Institute of Technology, Chicago
+- **B.E. in Computer Science** (2013-17), Visvesvaraya Technological University, India
 
 ---
 
