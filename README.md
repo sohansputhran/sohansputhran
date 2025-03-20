@@ -1,43 +1,47 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello! I’m Sohan Puthran
-I’m a Data Scientist passionate about building end-to-end machine learning pipelines, deploying AI/ML models, and solving complex business problems with data-driven insights. With a proven track record of improving decision-making processes, optimizing profits, and leveraging automation, I aim to make an impact through innovative solutions.
+I'm a passionate Data Scientist with over 3 years of experience specializing in machine learning, data engineering, and AI. My expertise lies in utilizing advanced analytics and AI technologies to drive business solutions. I am always eager to work on innovative projects that have a real-world impact.
 
 ---
 
-## 🚀 **About Me**
-- **Data Scientist** | 3+ years of experience in **AI/ML** and **Data Engineering**
-- Proven success in deploying models for **sales forecasting**, **price optimization**, and **occupancy analysis**
-- Expertise in cloud solutions: **AWS SageMaker**, **Azure Data Factory**, and **Snowflake**
-- Strong problem-solving skills recognized in global competitions like **United Nations Unite Ideas Challenge**
+## 👨‍💻 What I Do:
+- I build end-to-end **data science solutions** and **machine learning models** to tackle complex business problems.
+- I create and manage **data pipelines**, focusing on scalability and automation with tools like **Airflow** and **Terraform**.
+- I develop **predictive models** using machine learning algorithms and deep learning techniques.
+- I work with **big data** tools (Hadoop, Spark) and **cloud technologies** (AWS, GCP, Azure).
+- I analyze and visualize data to provide actionable insights that help stakeholders make informed decisions.
 - 🌱 Working on my personal website: https://sohansputhran.github.io/
 
 ---
 
-## 🛠️ **Technical Skills**
-- **Data Science / AI**: Deep Learning | NLP | LLMs | Transfer Learning | Recommendation Systems | Marketing Mix Modeling
-- **Languages**: Python | SQL | JavaScript | TypeScript
-- **Libraries/Tools**: Pandas | PyTorch | TensorFlow | Scikit-Learn | Streamlit | Flask | PySpark
-- **Cloud**: AWS SageMaker | Azure ML | Snowflake
+## 🧠 Skills & Technologies:
+- **Programming**: Python | SQL | JavaScript | TypeScript
+- **Machine Learning**: Scikit-learn | TensorFlow | Keras | PyTorch | Deep Learning | NLP | LLMs | Transfer Learning | Recommendation Systems | Marketing Mix Modelin
+- **Data Engineering**: Apache Spark | PySpark | Hadoop | Airflow | Terraform
+- **Data Analysis / Data Science**: Pandas | Numpy | Matplotlib | Seaborn
+- **Cloud & DevOps**: AWS | GCP | Docker | Kubernetes | Snowflake | Azure
+- **Version Control**: Git | GitHub
+- **Web Development**: Streamlit | Flask | Jekyll
 - **Other Tools**: Git | Power BI | VS Code | Excel
-
+  
 ---
 
 ## 💻 **Featured Projects**
 
 1. **End-to-End Machine Learning Pipeline for Sales Forecasting**
-   - Deployed a **DeepAR model** on AWS SageMaker
-   - Reduced turnaround time by **36%** through automation with **AWS Lambda**
-   - Delivered a monthly sales suggestion pipeline with an RMSE of **1.6**.
+   - Designed and deployed a **DeepAR model** using **AWS SageMaker** to forecast sales with high accuracy.
+   - Automated the process with **AWS Lambda**, reducing turnaround time by **36%**.
+   - Delivered a monthly sales suggestion pipeline achieving an **RMSE of 1.6**, optimizing decision-making for the sales team.
 
 2. **Dynamic Price Prediction for Short-term Rentals**
-   - Built a **price prediction model** achieving an RMSE of **0.17**
-   - Improved profits by **30%** through surge detection and optimized pricing engines using **Azure ML pipelines**.
+   - Developed a **price prediction model** using **Azure ML pipelines**, achieving an **RMSE of 0.17**.
+   - Improved profits by **30%** through surge detection and optimized pricing strategies based on market trends.
 
 3. **Global AI Initiatives with Omdena**
-   - **Rooftop and Obstacle Detection**: Led a team to develop **deep learning models** for urban planning applications.
+   - **Rooftop and Obstacle Detection**: Led a team to create **deep learning models** for urban planning, improving safety and efficiency in city infrastructure.
    - **Financial Crime Detection**: Built ML models for detecting terrorist financing, securing **1st place** in the **UN’s Unite Ideas Challenge**.
 
 4. **Geospatial Occupancy Analysis**
-   - Created interactive **Folium maps** analyzing occupancy across **4500+ listings**, enhancing business insights.
+   - Developed interactive **Folium maps** to analyze occupancy patterns across **4500+ listings**, providing valuable business insights for optimizing property management and pricing strategies.
 
 ---
 
@@ -63,8 +67,13 @@ I’m a Data Scientist passionate about building end-to-end machine learning pip
 ---
 
 ## 🌟 **Let’s Collaborate!**
-I’m open to projects in **Data Science**, **Machine Learning**, and **AI/ML Engineering**. Feel free to explore my repositories, and let’s innovate together.
+Feel free to reach out if you're interested in collaborating, discussing opportunities, or sharing knowledge. I’m open to new challenges and am actively looking for exciting **Data Scientist** roles. 
 
+---
+
+> "The best way to predict the future is to create it." – Abraham Lincoln
+
+---
 📧 **Contact Me**: [puthran.sohan@gmail.com](mailto:puthran.sohan@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/sohansputhran](https://www.linkedin.com/in/sohansputhran)
 
