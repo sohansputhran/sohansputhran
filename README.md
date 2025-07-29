@@ -88,12 +88,6 @@ An intelligent Streamlit application that revolutionizes resume optimization usi
 - 🚀 Exploring cutting-edge AI technologies and LLMs
 - 📚 Contributing to open-source AI projects
 
-## 📊 GitHub Stats
-
-![Sohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohansputhran&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohansputhran&layout=compact&theme=radical)
-
 ## 💬 Let's Connect!
 
 Feel free to reach out if you're interested in collaborating, discussing opportunities, or sharing knowledge. I'm open to new challenges and am actively looking for exciting Data Scientist roles.
