@@ -1,6 +1,6 @@
 # Hi there, I'm Sohan! 👋
 
-I'm a passionate **Data Scientist** with over 3 years of experience specializing in machine learning, data engineering, and AI. My expertise lies in utilizing advanced analytics and AI technologies to drive business solutions. I am always eager to work on innovative projects that have a real-world impact.
+I'm a passionate **Data Scientist** with over 4 years of experience specializing in machine learning, data engineering, and AI. My expertise lies in utilizing advanced analytics and AI technologies to drive business solutions. I am always eager to work on innovative projects that have a real-world impact.
 
 ## 🚀 What I Do
 
